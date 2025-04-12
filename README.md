@@ -1,7 +1,7 @@
-# RhythmPlay
+# RitmoPlay
 RitmoPlay – Controle total do seu ritmo musical O RitmoPlay é um aplicativo inovador que permite a você explorar, ajustar e controlar o ritmo de suas músicas de maneira simples e intuitiva. Se você é músico, DJ, ou apenas ama curtir uma boa batida, este app foi feito para você!
 
-# RitmoPlay
+# RhythmPlay
 RitmoPlay – Total control of your musical rhythm
 RitmoPlay is an innovative app that allows you to explore, adjust and control the rhythm of your songs in a simple and intuitive way. If you are a musician, DJ, or just love to enjoy a good beat, this app was made for you!
 
